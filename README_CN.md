@@ -100,7 +100,7 @@ Facebook 已采用《行为准则》_Code of Conduct_，我们希望项目参与
 
 ## 联系
 
-我们有以下多种渠道联系：
+我们有以下多种联系渠道：
 
 - [Discord](https://discord.gg/docusaurus):
   - `#general` for those using Docusaurus.
