@@ -21,7 +21,7 @@
   <a href="https://app.netlify.com/start/deploy?repository=https://github.com/slorber/docusaurus-starter"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 </p>
 
-> **我们努力开发的 `Docusaurus v2`已经 [`发布`](https://github.com/facebook/docusaurus/releases) 啦🥳🎊🎉🎉。最新版为  `V2.4.0` ，如果您不熟悉 Docusaurus，请尝试使用最新版本而不是 v1。有关更多详细信息，请参阅 [Docusaurus v2 网站](https://docusaurus.io/) 。**
+> **我们努力开发的 `Docusaurus v2`已经 [`发布`](https://github.com/facebook/docusaurus/releases) 啦🥳🎊🎉🎉。最新版为 [`V2.4.0`](https://github.com/facebook/docusaurus/releases) ，如果您不熟悉 Docusaurus，请尝试使用最新版本而不是 v1。有关更多详细信息，请参阅 [Docusaurus v2 网站](https://docusaurus.io/) 。**
 
 > `Docusaurus v1` 文档可在 [v1.docusaurus.io](https://v1.docusaurus.io) 中查阅，代码可在以下分支 [docusaurus-v1](https://github.com/facebook/docusaurus/tree/docusaurus-v1) 中获取。
 
