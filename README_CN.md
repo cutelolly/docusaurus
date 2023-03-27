@@ -130,7 +130,7 @@ Facebook 已采用《行为准则》_Code of Conduct_，我们希望项目参与
 
 `Docusaurus` 使用 [MIT](./LICENSE) 许可.
 
-`Docusaurus` 文档 (例如放置在 `/docs` 文件夹) 下的以 `.md` 结尾的文档是被Creative Commons许可的 [知识共享许可](./LICENSE-docs).
+`Docusaurus` 文档 (例如放置在 `/docs` 文件夹) 下的以 `.md` 结尾的文档是被Creative Commons许可的 [LICENSE文件](./LICENSE-docs).
 
 ## 特别致谢
 
