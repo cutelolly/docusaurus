@@ -51,11 +51,36 @@ Short on time? Check out our [5-minute tutorial ⏱️](https://tutorial.docusau
 
 ## Installation
 
-Use the initialization CLI to create your site:
+The easiest way to install Docusaurus is to use the command line tool that helps you scaffold a skeleton Docusaurus website. You can run this command anywhere in a new empty repository or within an existing repository, it will create a new directory containing the scaffolded files.
 
-```bash
-npm init docusaurus@latest
+```sh
+npx create-docusaurus@latest my-website classic
 ```
+We recommend the `classic` template so that you can get started quickly, and it contains features found in `Docusaurus 1`. The `classic` template contains `_@docusaurus/preset-classic_` which includes standard documentation, a blog, custom pages, and a CSS framework (with `dark` mode support). You can get up and running extremely quickly with the `classic` template and customize things later on when you have gained more familiarity with `Docusaurus`.
+
+You can also use the template's TypeScript variant by passing the `--typescript` flag. See [TypeScript support](https://docusaurus.io/docs/typescript-support) for more information.
+```sh
+npx create-docusaurus@latest my-website classic --typescript
+```
+If you are setting up a new Docusaurus website for a Facebook open source project, use the facebook template instead, which comes with some useful Facebook-specific defaults:
+```sh
+npx create-docusaurus@latest my-website facebook
+```
+
+You can also initialize a new project using your preferred project manager:
+1. use npm package manager
+```sh
+npm init docusaurus
+```
+2. use yarn package manager
+```sh
+yarn create docusaurus
+```
+3. use npm package manager
+```sh
+pnpm create docusaurus
+```
+Run `npx create-docusaurus@latest --help`, or check out its [API docs](https://docusaurus.io/docs/api/misc/create-docusaurus) for more information about all available flags.
 
 [Read the docs](https://docusaurus.io/docs/installation) for any further information.
 
