@@ -23,6 +23,8 @@
 
 > **我们努力开发的 `Docusaurus v2`已经 [`发布`](https://github.com/facebook/docusaurus/releases) 啦🥳🎊🎉🎉。最新版为 [`V2.4.0`](https://github.com/facebook/docusaurus/releases) ，如果您不熟悉 Docusaurus，请尝试使用最新版本而不是 v1。有关更多详细信息，请参阅 [Docusaurus v2 网站](https://docusaurus.io/) 。**
 
+> 关于`**Docusaurus**`所有的历史版本请在 [`以下地址`](https://docusaurus.io/versions) 查看。
+
 > `Docusaurus v1` 文档可在 [v1.docusaurus.io](https://v1.docusaurus.io) 中查阅，代码可在以下分支 [docusaurus-v1](https://github.com/facebook/docusaurus/tree/docusaurus-v1) 中获取。
 
 <p align="center">
