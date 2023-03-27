@@ -120,7 +120,7 @@ Facebook 已采用《行为准则》_Code of Conduct_，我们希望项目参与
 
 ## 赞助商
 
-通过成为赞助商来支持这个项目。您的Logo将会显示在此处，并可以链接到您的网站。 点击这里立刻 [成为该项目的赞助商](https://opencollective.com/Docusaurus#sponsor)
+通过成为赞助商来支持这个项目。您的Logo将会显示在此处，并可以链接到您的网站。 点击这里立刻 [成为Docusaurus的赞助商](https://opencollective.com/Docusaurus#sponsor)
 
 <p align="center">
   <a href="https://opencollective.com/Docusaurus/sponsor/0/website" target="_blank"><img src="https://opencollective.com/Docusaurus/sponsor/0/avatar.svg"></a> <a href="https://opencollective.com/Docusaurus/sponsor/1/website" target="_blank"><img src="https://opencollective.com/Docusaurus/sponsor/1/avatar.svg"></a>
