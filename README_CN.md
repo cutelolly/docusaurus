@@ -21,9 +21,7 @@
   <a href="https://app.netlify.com/start/deploy?repository=https://github.com/slorber/docusaurus-starter"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 </p>
 
-> **我们努力开发的 `Docusaurus v2` 已经 [`发布`](https://github.com/facebook/docusaurus/releases) 啦🥳🎊🎉🎉。最新版为 [`V2.4.0`](https://github.com/facebook/docusaurus/releases) ，如果您不熟悉 _Docusaurus_，请尝试使用最新版本而不是 v1。有关更多详细信息，请参阅 [Docusaurus v2 网站](https://docusaurus.io/) 。**
-
-> 关于 `Docusaurus` 所有的历史版本请在 [`以下地址`](https://docusaurus.io/versions) 查看。
+> **我们正在努力开发 `Docusaurus v2` 。如果您不熟悉 Docusaurus，请尝试使用新版本而不是 v1。有关更多详细信息，请参阅 [Docusaurus v2 网站](https://docusaurus.io/) 。**
 
 > `Docusaurus v1` 文档可在 [v1.docusaurus.io](https://v1.docusaurus.io) 中查阅，代码可在以下分支 [docusaurus-v1](https://github.com/facebook/docusaurus/tree/docusaurus-v1) 中获取。
 
@@ -31,11 +29,12 @@
     <br> <a href="README.md">English</a> | 中文
 </p>
 
-## 简介
+## [简介](./docs/tutorial-basics/congratulations.md)
 
 `Docusaurus` 是一个用于轻松构建、部署和维护开源项目网站的项目。
 
 如果您时间有限，可以打开我们的 [教程](https://tutorial.docusaurus.io) 5分钟⏱️快速上手 &#x1F44C; ！
+或者使用 [简洁版教程](./docs/intro.md)。
 
 **小提示&#x1F440;**：可以使用 **[docusaurus.new](https://docusaurus.new)** 在浏览器中立即亲身体验 `Docusaurus` 。
 
@@ -81,16 +80,33 @@ npx create-docusaurus@latest my-website classic --typescript
 
 [查看安装文档](https://docusaurus.io/docs/installation) 可以了解更详细的安装步骤。
 
-## 文档
-打开对应的 [**docusaurus文档**](https://docusaurus.io/docs) 可以获取您所需要的更详细信息。
+## 简易使用
+
+1. 文档创建
+- [创建一个blog](./docs/tutorial-basics/create-a-blog-post.md)
+- [创建一个document](./docs/tutorial-basics/create-a-document.md)
+- [创建一个page](./docs/tutorial-basics/create-a-page.md)
+
+2. [构建与国际化支持](./docs/tutorial-extras/translate-your-site.md)
+
+3. 文档[发布预览](./docs/tutorial-basics/deploy-your-site.md)
+
+4. 用户文档的
+[版本管理](./docs/tutorial-extras/manage-docs-versions.md)
+
+## Docusaurus的说明文档
+打开对应的 [**Docusaurus文档**](https://docusaurus.io/docs) 可以获取您所需要的更详细信息。
+
+## Docusaurus的版本介绍
+版本[更新历史、下载链接](https://github.com/facebook/docusaurus/releases)与各版本新添加的功能。
 
 ## 贡献
 
 我们发布了 `Docusaurus`，因为它可以帮助我们更好地扩展并支持 _Facebook_ 的许多 _OSS_ 项目。希望其他组织能够从该项目中受益。感谢社区的每一个贡献。
 
-### [行为准则](https://code.fb.com/codeofconduct)
+### [编码规范](https://code.fb.com/codeofconduct)
 
-Facebook 已采用《行为准则》_Code of Conduct_，我们希望项目参与者遵守该准则。请阅读[全文](https://code.fb.com/codeofconduct)，以便您了解哪些行为将被容忍，哪些行为不会被容忍。
+Facebook 已采用《编码规范》_Code of Conduct_，我们希望项目参与者遵守该准则。请阅读[全文](https://code.fb.com/codeofconduct)，以便您了解哪些行为将被容忍，哪些行为不会被容忍。
 
 ### 贡献指南
 
@@ -102,7 +118,7 @@ Facebook 已采用《行为准则》_Code of Conduct_，我们希望项目参与
 
 ## 联系
 
-我们有以下多种联系渠道：
+我们有以下多种渠道联系：
 
 - [Discord](https://discord.gg/docusaurus):
   - `#general` for those using Docusaurus.
@@ -122,7 +138,7 @@ Facebook 已采用《行为准则》_Code of Conduct_，我们希望项目参与
 
 ## 赞助商
 
-通过成为赞助商来支持这个项目。您的Logo将会显示在此处，并可以链接到您的网站。 点击这里立刻 [成为Docusaurus的赞助商](https://opencollective.com/Docusaurus#sponsor)
+通过成为赞助商来支持这个项目。您的徽标将显示在此处，并带有指向您网站的链接。 [成为该项目的赞助商](https://opencollective.com/Docusaurus#sponsor)
 
 <p align="center">
   <a href="https://opencollective.com/Docusaurus/sponsor/0/website" target="_blank"><img src="https://opencollective.com/Docusaurus/sponsor/0/avatar.svg"></a> <a href="https://opencollective.com/Docusaurus/sponsor/1/website" target="_blank"><img src="https://opencollective.com/Docusaurus/sponsor/1/avatar.svg"></a>
@@ -132,7 +148,7 @@ Facebook 已采用《行为准则》_Code of Conduct_，我们希望项目参与
 
 `Docusaurus` 使用 [MIT](./LICENSE) 许可.
 
-`Docusaurus` 文档 (例如放置在 `/docs` 文件夹) 下的以 `.md` 结尾的文档是被Creative Commons许可的 [LICENSE文件](./LICENSE-docs).
+`Docusaurus` 文档 (例如以 `.md` 结尾的文档放置在 `/docs` 文件夹) 的 [知识共享许可](./LICENSE-docs).
 
 ## 特别致谢
 
